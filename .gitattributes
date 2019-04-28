@@ -1,0 +1,4 @@
+embedded[[:space:]]data.zip filter=lfs diff=lfs merge=lfs -text
+labeled[[:space:]]data.zip filter=lfs diff=lfs merge=lfs -text
+mapped[[:space:]]data.zip filter=lfs diff=lfs merge=lfs -text
+source[[:space:]]file.zip filter=lfs diff=lfs merge=lfs -text
