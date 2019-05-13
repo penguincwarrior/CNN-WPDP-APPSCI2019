@@ -9,4 +9,4 @@ Instruction:
 3) embedded data.zip: This file contains source file AST sequences which are extracted by strategies described in the paper 
 (*. restrictedcontent), and the embedded integer sequences with 0 padded (*.embed)
 
-4) mapped data.zip: This file contains source file path (absolute path currently, which is to be fixed in the future) and defect numbers of the file.
+4) mapped data.zip: This file contains source file path (absolute path currently, which is to be fixed in the future) and defect information of the file.
